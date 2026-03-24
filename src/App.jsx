@@ -12,14 +12,15 @@ function App() {
           GROUB 
         </p>
         <p className="small">
-          ปรัญชา เพรชศรี 6630251342
+          อัษฎายุศ ศรีบัว  6630251261
         </p>
         <p className="small">
           ชนาธิป แจ้งเศษ 6630251067
         </p>
         <p className="small">
-          อัษฎายุศ ศรีบัว  6630251261
+          ปรัญชา เพรชศรี 6630251342
         </p>
+         <img src="/D1.jpg" className="App-logo" alt="logo2" />
         <h1>I LOVE DEVOP</h1>
         <p>
           <a
