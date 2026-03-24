@@ -27,7 +27,6 @@ jobs:
           context: .
           push: true
           tags: autsadayussribua/devop880-pipeline:latest
-
   deploy:
     needs: build-and-push-docker-image
     runs-on: ubuntu-latest
