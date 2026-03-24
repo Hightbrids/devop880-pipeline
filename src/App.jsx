@@ -4,14 +4,23 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="KU1.jpg" className="App-logo" alt="logo" />
         <p>
           CI/CD project web app React
         </p>
-        <p className="small">
-          Writen by Mr. Autsadayus
+        <p className="BIG">
+          GROUB 
         </p>
-        <h1>I LOVE DEV</h1>
+        <p className="small">
+          ปรัญชา เพรชศรี 6630251342
+        </p>
+        <p className="small">
+          ชนาธิป แจ้งเศษ 6630251067
+        </p>
+        <p className="small">
+          อัษฎายุศ ศรีบัว  6630251261
+        </p>
+        <h1>I LOVE DEVOP</h1>
         <p>
           <a
             className="App-link"
