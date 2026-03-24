@@ -26,7 +26,9 @@ jobs:
         with:
           context: .
           push: true
+          # แก้ไขจาก Autsadayus เป็นชื่อ user จริงของคุณ
           tags: autsadayussribua/devop880-pipeline:latest
+
   deploy:
     needs: build-and-push-docker-image
     runs-on: ubuntu-latest
