@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #002d47;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,4 +28,19 @@
 
 .small {
   font-size: 0.75rem;
+}
+.App-header p {
+  margin: 4px 0;   /* ลดระยะห่างระหว่างบรรทัด */
+}
+
+.BIG {
+  margin-top: 4px;  /* ลดช่องว่างด้านบนของ GROUB */
+  margin-bottom: 4px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.small {
+  margin: 2px 0;   /* ให้รายชื่อชิดกันมากขึ้น */
+  font-size: 14px;
 }
